@@ -2,4 +2,4 @@
 # student
 sulekha singh
 # teacher
-shradha khapra
+shradha 
